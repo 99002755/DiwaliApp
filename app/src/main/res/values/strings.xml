@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LTTSapp</string>
+    <string name="ent_nm">Enter Name</string>
+    <string name="ent_pwd">Enter password</string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancel</string>
+    <string name="wellcome_to_login_page">WellCome TO Login Page</string>
+    <string name="diwali_celebrations">Diwali Celebrations</string>
+</resources>
